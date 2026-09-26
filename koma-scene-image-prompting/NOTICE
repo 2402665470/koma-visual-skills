@@ -1,0 +1,9 @@
+Koma Scene Image Prompting skill
+
+Adapted from Visual Skills by Serge Shima.
+Source: https://github.com/smixs/visual-skills/tree/ae26d624edd747e719fa21528d18d39e68c04a0e
+Original author: Serge Shima — https://github.com/smixs/visual-skills
+License: Creative Commons Attribution 4.0 International (CC BY 4.0); see LICENSE.
+
+Koma adaptation adds story-to-scene prompt compilation, actual TTI selection boundaries,
+scene-library task reporting, and product/character compositing constraints.
